@@ -1,18 +1,23 @@
-## Getting Started
+# Java Game Application  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Deskripsi  
+Aplikasi ini adalah game sederhana yang dibuat menggunakan **Java 19.0.2**. Game ini dibuat untuk memenuhi syarat **Ujian Akhir Pemrograman Semester 3** pada program studi S1 Teknologi Informasi, Universitas Bani Saleh.  
 
-## Folder Structure
+## Fitur  
+- **Resolusi Tetap:** Aplikasi memiliki resolusi fixed (tidak mendukung dynamic resolution).  
+- **Tanpa Musik:** Tidak ada musik latar atau efek suara.  
+- **Tanpa Background:** Aplikasi hanya menampilkan elemen-elemen permainan, tanpa latar belakang tambahan.  
 
-The workspace contains two folders by default, where:
+## Persyaratan Sistem  
+- **JDK:** Java 19.0.2 atau yang lebih baru.  
+- **Sistem Operasi:** Windows x64 (disarankan).  
+- **RAM:** Minimal 2 GB.  
+- **Storage:** Minimal 100 MB ruang kosong.  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Cara Menjalankan  
+1. Pastikan **JDK 19.0.2** terinstal di sistem Anda.  
+2. Clone atau unduh repository ini.  
+3. Navigasikan ke direktori aplikasi melalui terminal.  
+4. Jalankan perintah berikut untuk memulai:  
+   ```bash
+   java -jar NamaFileGame.jar
