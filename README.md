@@ -9,6 +9,7 @@ Aplikasi ini adalah game sederhana yang dibuat menggunakan **Java 19.0.2**. Game
 - **Tanpa Background:** Aplikasi hanya menampilkan elemen-elemen permainan, tanpa latar belakang tambahan.  
 
 ## Persyaratan Sistem  
+- **Genre:** Platforming.
 - **JDK:** Java 19.0.2 atau yang lebih baru.  
 - **Sistem Operasi:** Windows x64 (disarankan).  
 - **RAM:** Minimal 2 GB.  
