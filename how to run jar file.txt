@@ -1,0 +1,5 @@
+Menjalankan file jar :
+java --enable-preview -jar APP.jar
+
+Menjalankan game langsung dari kode :
+java -cp bin Main.App
